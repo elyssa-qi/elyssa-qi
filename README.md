@@ -1,6 +1,4 @@
 ## Hi there 👋
 
-<!--
-**elyssa-qi/elyssa-qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I AM ELYSSA QI 
+## I AM ELYSSA QI AND MY NAME IS ELYSSA AND DID I TELL YOU MY NAME IS ELYSSA 
